@@ -1,6 +1,0 @@
-<properties>
-	<property>
-		<groupId>fsDefault</groupId>
-		<artifactId>hdfs</artifactId>
-	</property>
-</properties>
